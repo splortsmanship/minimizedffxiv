@@ -1,0 +1,48 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background-color: #E7DFDD;
+}
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background-color: #1A2238;
+}
+h2 {
+  color: #FF6A3D
+}
+p {
+color: #9DAAF2;
+}
+.card {
+  background-color: #1A2238;
+  text-color: #9DAAF2;
+  padding: 20px;
+  margin-top: 20px;
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #1A2238;
+  margin-top: 20px;
+  text-color: #9DAAF2;
+}
+a {
+  color: #FF6A3D;
+}
+a:hover {
+  color: #F4DB7D;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  text-align: center;
+}
+figcaption {
+  color: #9DAAF2
+}
