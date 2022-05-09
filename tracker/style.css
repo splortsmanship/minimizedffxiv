@@ -52,3 +52,11 @@ figcaption {
   height: 50px;
   width: 50px;
 }
+figcaption a {
+  color: #FF6A3D;
+  text-decoration: none;
+}
+figcaption a:hover {
+  color: #F4DB7D;
+  text-decoration: none;
+}
