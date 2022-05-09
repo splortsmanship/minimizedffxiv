@@ -45,18 +45,15 @@ a:hover {
   padding: 20px;
   text-align: center;
 }
-figcaption {
-  color: #9DAAF2
-}
 .icon {
   height: 50px;
   width: 50px;
 }
-figcaption a {
+.grid-item a {
   color: #FF6A3D;
   text-decoration: none;
 }
-figcaption a:hover {
+.grid-item a:hover {
   color: #F4DB7D;
   text-decoration: none;
 }
