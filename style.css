@@ -126,3 +126,7 @@ figcaption {
   padding: 20px;
   margin-top: 20px;
 }
+
+.navbox > h3 {
+  color: #1A2238;
+}
