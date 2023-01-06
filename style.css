@@ -125,8 +125,17 @@ figcaption {
   background-color: #F4DB7D;
   padding: 20px;
   margin-top: 20px;
+  width: 20%;
 }
 
 .navbox > h3 {
   color: #1A2238;
+}
+
+.navbox > a {
+  color: #1A2238;
+}
+
+.navbox a:hover {
+  color: #FF6A3D;
 }
